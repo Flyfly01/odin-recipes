@@ -1,0 +1,21 @@
+h1 {
+    margin: 20px;
+    padding: 10px;
+}
+
+.title {
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.description {
+    margin-left: 30px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+
+.link {
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
